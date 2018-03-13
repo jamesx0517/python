@@ -1,4 +1,4 @@
-# -- coding: utf-8 --
+ï»¿# -- coding: utf-8 --
 my_name = 'Zed A .Shaw'
 my_age = 35
 my_height= 74
@@ -23,6 +23,6 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 #this line is tricky , try to get exactly right
 print "If I add %d ,%d ,and %d I get %d " %(my_age , my_height , my_weight , my_age + my_height + my_weight)
 
-# %d ±a¤J«á­±ªº% d¬°¼Æ­È
-# %s ±a¤J«á­±ªº% s¬°¦r¦ê
-# %r ³q³q¦L¥X¨Ó
+# %d å¸¶å…¥å¾Œé¢çš„% dç‚ºæ•¸å€¼
+# %s å¸¶å…¥å¾Œé¢çš„% sç‚ºå­—ä¸²
+# %r é€šé€šå°å‡ºä¾†

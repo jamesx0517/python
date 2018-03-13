@@ -1,11 +1,11 @@
-# -- coding: utf-8 --
+ï»¿# -- coding: utf-8 --
 print "Mary had a little lamb"
 
 print "It's fleece was white as %s." % 'snow'
 
 print "And everywhere that Mary went."
 
-print "." * 10  #what's that do (·|¥X²{¤°»ò)
+print "." * 10  #what's that do (æœƒå‡ºç¾ä»€éº¼)
 
 end1 = "C"
 end2 = "h"

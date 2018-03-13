@@ -1,5 +1,5 @@
-# -- coding: utf-8 --
-#¬Oµù¸Ñ ¤£°õ¦æ
+ï»¿# -- coding: utf-8 --
+#æ˜¯è¨»è§£ ä¸åŸ·è¡Œ
 print "Hello world"
 print "hello again"
 print "I like typing this"
@@ -7,5 +7,5 @@ print "This is fun"
 print "Yep, typing!!!"
 print "I'd much rather you 'not'"
 print "I say do not touch this"
-print "¤¤¤å"
+print "ä¸­æ–‡"
 

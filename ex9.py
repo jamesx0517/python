@@ -1,7 +1,7 @@
-# -- coding: utf-8 --
+ï»¿# -- coding: utf-8 --
 days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "Jan \nFeb \nMar \nApr \nMay \nJun \nJul \nAug"
-#\n ´«¦æ
+#\n æ›è¡Œ
 print "Here are the days" ,days
 
 print "Here are months ", months
@@ -16,4 +16,4 @@ We'll be able to type as much as like.
 
 Even 4 lines if we want ,or 5 or ,6. """
 
-#¤T­Ó" print ¦h¦æ¤å¦r
+#ä¸‰å€‹" print å¤šè¡Œæ–‡å­—

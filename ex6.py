@@ -1,15 +1,15 @@
-# -- coding: utf-8 --
+ï»¿# -- coding: utf-8 --
 X="There are %d types of people" % 10
-#%d±a¤J«áÀYªº¼Æ¦r10
+#%då¸¶å…¥å¾Œé ­çš„æ•¸å­—10
 binary ="binary"
 do_not ="don't"
 Y="Those who know %s and those who %s ." % (binary,do_not)
-                                        #­n´¡¤J¦h­ÓÅÜ¼Æ »İ­n¥Î () ¥]°_¨Ó ¦A¨Ï¥Î , ¹j¶} 
-#%s ±a¤J ÅÜ¼Æ binary   do_not
+                                        #è¦æ’å…¥å¤šå€‹è®Šæ•¸ éœ€è¦ç”¨ () åŒ…èµ·ä¾† å†ä½¿ç”¨ , éš”é–‹ 
+#%s å¸¶å…¥ è®Šæ•¸ binary   do_not
 print X
-#Åã¥ÜÅÜ¼ÆX
+#é¡¯ç¤ºè®Šæ•¸X
 print Y
-#Åã¥ÜÅÜ¼ÆY
+#é¡¯ç¤ºè®Šæ•¸Y
 print "I said : %r " %X
 
 print "I also said %s" %Y
@@ -25,4 +25,4 @@ w = "This is the left side of..."
 e = "a string with a right side."
 
 print w + e
-#¦r¦êµ²¦X ¨Ï¥Î + ¸¹
+#å­—ä¸²çµåˆ ä½¿ç”¨ + è™Ÿ

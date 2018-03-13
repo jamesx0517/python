@@ -1,11 +1,11 @@
-# -- coding: utf-8 --
-#A comment(µû½×),this is so you can read your program later.
-#µû½×¡]µû½×¡^¡A³o¬O¥H«á§A¥i¥H¾\Åª§Aªºµ{§Ç¡C
-#Anything after # is ignored(©¿µø) by python
-#python¤¤¥ô¦ó¦b#«á­±ªº³£¥i¥H©¿µø
+ï»¿# -- coding: utf-8 --
+#A comment(è©•è«–),this is so you can read your program later.
+#è©•è«–ï¼ˆè©•è«–ï¼‰ï¼Œé€™æ˜¯ä»¥å¾Œä½ å¯ä»¥é–±è®€ä½ çš„ç¨‹åºã€‚
+#Anything after # is ignored(å¿½è¦–) by python
+#pythonä¸­ä»»ä½•åœ¨#å¾Œé¢çš„éƒ½å¯ä»¥å¿½è¦–
 print "I could have code like this." # and the comment after is ingored
 #You can also use a comment to "disable" or comment out piece of code:
 #print "This won't run."
-#±z¤]¥i¥H¨Ï¥ÎµùÄÀ¨Ó¡§¸T¥Î¡¨©ÎµùÄÀ±¼¤@¬q¥N½X¡G
-#print¡§³o¤£·|¹B¦æ¡C¡¨
+#æ‚¨ä¹Ÿå¯ä»¥ä½¿ç”¨è¨»é‡‹ä¾†â€œç¦ç”¨â€æˆ–è¨»é‡‹æ‰ä¸€æ®µä»£ç¢¼ï¼š
+#printâ€œé€™ä¸æœƒé‹è¡Œã€‚â€
 print "This will run"

@@ -1,4 +1,4 @@
-# -- coding: utf-8 --
+ï»¿# -- coding: utf-8 --
 print "I will now count my chickens"
 print "Hens", 25 + 30 / 6
 print "Roosters", 100 - 25 * 3 % 4
@@ -10,9 +10,9 @@ print "What is 3 + 2?" ,  3 + 2
 print "What is 5-7 ?" , 5- 7
 print "Oh that's why is False."
 print "How about some more? "
-print "Is it 	greater(§ó¤j)", 5 > -2
-print "Is it greater or equal (µ¥©ó)", 5 >= -2
+print "Is it 	greater(æ›´å¤§)", 5 > -2
+print "Is it greater or equal (ç­‰æ–¼)", 5 >= -2
 print "Is it less or equal " , 5 <= -2
 print 5%3
-# %= ¬Û°£«áªº¾l¼Æ 5/3 ¾l 2
+# %= ç›¸é™¤å¾Œçš„é¤˜æ•¸ 5/3 é¤˜ 2
 print 0.8*2
