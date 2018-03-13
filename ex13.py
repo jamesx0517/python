@@ -2,7 +2,7 @@
 from sys import argv
 
 script , first , second , third =  argv
-
+#argv 第一個顯示目前正在執行的程式
 print "The script is call:" , script
 
 print "Your first variable is:" , first
