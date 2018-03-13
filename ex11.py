@@ -2,7 +2,7 @@
 
 print  "How old are you ?",
 age=raw_input()
-
+#raw_input輸入框
 print "How tall are you?",
 height=raw_input()
 
